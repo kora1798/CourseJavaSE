@@ -1,0 +1,6 @@
+Book 1
+Computer 2
+Cat 2.4
+Mouse 0.8
+Bottle 0.5
+Shirt 0.24
